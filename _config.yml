@@ -55,9 +55,6 @@ topics:
     web_url: https://kubernetes.io/pt-br/
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/617px-Kubernetes_logo_without_workmark.svg.png?20190926210707
 
-  - name: Terraform
-    web_url: https://www.terraform.io/
-    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Terraform_Logo.svg/512px-Terraform_Logo.svg.png
-
   - name: OpenAI
     web_url: https://openai.com/api/
+    image_url: https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg
