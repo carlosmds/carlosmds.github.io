@@ -33,18 +33,18 @@ social_media:
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-  instagram: https://www.instagram.com/carlos.msouza
+  instagram: carlos.msouza
   # keybase: your_username
-  linkedin: https://www.linkedin.com/in/carlos-medeiros-864424179
+  linkedin: carlos-medeiros-864424179
   # mastodon: your_username
-  medium: https://medium.com/@carlosmedeirosdesouza
+  medium: @carlosmedeirosdesouza
   # stackoverflow: your_user_id
   # telegram: your_username
-  twitter: https://twitter.com/_carlosmds
+  twitter: _carlosmds
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
-  # youtube: your_username
+  # youtube: your_usernames
 
 topics:
   - name: Ansible
