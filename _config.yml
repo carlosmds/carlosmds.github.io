@@ -47,9 +47,9 @@ social_media:
   # youtube: your_usernames
 
 topics:
-  - name: Ansible
-    web_url: https://docs.ansible.com/
-    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/256px-Ansible_logo.svg.png
+  - name: Python
+    web_url: https://docs.python.org/3/
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029 
 
   - name: Kubernetes
     web_url: https://kubernetes.io/pt-br/
