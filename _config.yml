@@ -33,14 +33,14 @@ social_media:
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-  instagram: "carlos.msouza"
+  # instagram: "carlos.msouza"
   # keybase: your_username
   linkedin: "carlos-medeiros-864424179"
   # mastodon: your_username
-  medium: "@carlosmedeirosdesouza"
+  medium: "carlosmedeirosdesouza"
   # stackoverflow: your_user_id
-  # telegram: your_username
-  twitter: "_carlosmds"
+  telegram: mdscarlos
+  # twitter: "_carlosmds"
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
@@ -51,9 +51,9 @@ topics:
     web_url: https://docs.python.org/3/
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029 
 
-  - name: Kubernetes
-    web_url: https://kubernetes.io/pt-br/
-    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/617px-Kubernetes_logo_without_workmark.svg.png?20190926210707
+  - name: Solidity
+    web_url: https://docs.soliditylang.org/en/v0.8.18/
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png
 
   - name: OpenAI
     web_url: https://openai.com/api/
